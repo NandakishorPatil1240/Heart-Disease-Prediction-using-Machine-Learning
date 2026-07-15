@@ -1,0 +1,2 @@
+# Heart-Disease-Prediction-using-Machine-Learning
+Heart Disease Prediction Using Machine Learning is a healthcare-focused web application that predicts the likelihood of heart disease based on patient clinical data. The project leverages the K-Nearest Neighbors (KNN) classification algorithm to analyze medical parameters such as age, blood pressure, cholesterol level, chest pain type, ECG results.
