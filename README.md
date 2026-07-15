@@ -8,50 +8,50 @@ This project uses the K-Nearest Neighbors (KNN) Machine Learning algorithm to pr
 
 🚀 Features
 
-Interactive Streamlit web application
-Predicts heart disease risk using Machine Learning
-User-friendly interface
-Data preprocessing and feature scaling
-One-Hot Encoding for categorical variables
-Trained KNN classification model
-Real-time prediction
-Displays prediction result instantly
-Easy deployment and customization
+Interactive Streamlit web application,
+Predicts heart disease risk using Machine Learning,
+User-friendly interface,
+Data preprocessing and feature scaling,
+One-Hot Encoding for categorical variables,
+Trained KNN classification model,
+Real-time prediction,
+Displays prediction result instantly,
+Easy deployment and customization,
 
 🛠️ Technologies Used
 
-Python
-Pandas
-NumPy
-Scikit-learn
-Streamlit
-Joblib
-Matplotlib
-Seaborn
+Python,
+Pandas,
+NumPy,
+Scikit-learn,
+Streamlit,
+Joblib,
+Matplotlib,
+Seaborn,
 Jupyter Notebook
 
 ⚙️ Machine Learning Workflow
 
-Data Collection
-Data Cleaning
-Exploratory Data Analysis (EDA)
-Feature Engineering
-One-Hot Encoding
-Feature Scaling
-Train-Test Split
-Model Training (KNN Classifier)
-Model Evaluation
-Model Serialization using Joblib
+Data Collection,
+Data Cleaning,
+Exploratory Data Analysis (EDA),
+Feature Engineering,
+One-Hot Encoding,
+Feature Scaling,
+Train-Test Split,
+Model Training (KNN Classifier),
+Model Evaluation,
+Model Serialization using Joblib,
 Streamlit Deployment
 
 📋 Requirements
 
-streamlit
-pandas
-numpy
-scikit-learn
-joblib
-matplotlib
+streamlit,
+pandas,
+numpy,
+scikit-learn,
+joblib,
+matplotlib,
 seaborn
 
 👨‍💻 Author
